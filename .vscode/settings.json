@@ -1,6 +1,0 @@
-{
-  "files.associations": {
-    "*.css": "postcss"
-  },
-  "editor.formatOnSave": true
-}
