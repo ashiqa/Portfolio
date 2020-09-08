@@ -46,12 +46,12 @@ export default function scene(props) {
 
   React.useEffect(() => {
     document.querySelector("#contactsbutton").addEventListener("click", () => {
-      window.open("https://www.linkedin.com/in/ashiqa-rahman-432a47192/");
+      window.open("https://www.linkedin.com/in/albinotonnina/");
     });
   });
   React.useEffect(() => {
     document.querySelector("#githubbutton").addEventListener("click", () => {
-      window.open("https://github.com/ashiqa/ashiqa.github.io");
+      window.open("https://github.com/albinotonnina/albinotonnina.com/");
     });
   });
 

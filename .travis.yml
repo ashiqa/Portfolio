@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+  - "12"
+
+# This is where the magic happens, Travis handles Github pages deployment automatically
+deploy:
+  provider: pages # Tells Travis we're deploying on Github Pages
+  skip-cleanup: true # Make sure you have it set to true
+  github-token: $GITHUB_TOKEN # See notes bellow
+  repo: Aakash074/albinotonnina.com # For example christopherkade/christopherkade.github.io
+  target_branch: master # Branch to be deployed on
+  on:
+    branch: code # Deployement only triggered when code is pushed on the code branch

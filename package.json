@@ -1,12 +1,12 @@
 {
-  "name": "ashiqa",
+  "name": "albinotonnina",
   "version": "4.0.0",
   "license": "CC-BY-NC-ND-4.0",
-  "homepage": "https://github.com/ashiqa/ashiqa.github.io",
+  "homepage": "https://github.com/albinotonnina/albinotonnina.com",
   "author": {
-    "name": "Ashiqa",
-    "email": "rahmanashiqa@gmail.com",
-    "url": "http://ashiqa.github.io"
+    "name": "Albino Tonnina",
+    "email": "albinotonnina@gmail.com",
+    "url": "http://www.albinotonnina.com"
   },
   "scripts": {
     "dev": "webpack-dev-server --mode development",
