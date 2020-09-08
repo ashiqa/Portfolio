@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "length-zero-no-unit":null,
+    "at-rule-no-unknown": [
+      true,{
+      "ignoreAtRules": ["/^-st-/"]
+      }
+    ]
+  }
+}
+=======
+
+>>>>>>> 49865fe6991ffbfedeb22f3475af4236adf6fe27
