@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 language: node_js
 node_js:
   - "12"
@@ -12,6 +11,4 @@ deploy:
   target_branch: master # Branch to be deployed on
   on:
     branch: code # Deployement only triggered when code is pushed on the code branch
-=======
 
->>>>>>> 49865fe6991ffbfedeb22f3475af4236adf6fe27
