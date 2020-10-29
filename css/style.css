@@ -18,7 +18,7 @@
 }
 
 .header_area .main-menu .nav-item .nav-link {
-  font: normal 500 15px/2px var(--roboto);
+  font: normal 500 15px/2px tahoma;
   text-transform: uppercase;
   padding: 1.7rem;
   color: var(--title-color);
@@ -92,7 +92,7 @@
 
 .site-main .about-area .about-title h2 > span {
   display: block;
-  font: normal bold 49px/ 60px var(--roboto);
+  font: normal bold 49px/ 60px tahoma;
   letter-spacing: 21px;
 }
 
@@ -167,13 +167,13 @@
 }
 
 .site-main .brand-area .experience-area .years-area .years {
-  font: normal bold 84px/40px var(--roboto);
+  font: normal bold 84px/40px tahoma;
   color: var(--primary-color2);
   z-index: 2;
 }
 
 .site-main .brand-area .experience-area .years-area h2 > span {
-  font: normal 600 22px/30px var(--roboto);
+  font: normal 600 22px/30px tahoma;
 }
 
 .site-main .brand-area .experience-area .call-area {
@@ -219,7 +219,7 @@
 .site-main .project-area .button-group button {
   background: transparent;
   border: none;
-  font: normal 500 16px/130px var(--roboto);
+  font: normal 500 16px/130px tahoma;
   text-transform: uppercase;
 }
 
@@ -228,7 +228,7 @@
 }
 
 .site-main .project-area .grid .our-project > .title h4 {
-  font: normal 700 25px/12px var(--roboto);
+  font: normal 700 25px/12px tahoma;
 }
 
 .site-main .project-area .grid .our-project .img a:hover img {
@@ -258,7 +258,7 @@
 }
 
 .site-main .about-area .client .about-client h4 {
-  font: normal 500 21px/ 20px var(--roboto);
+  font: normal 500 21px/ 20px tahoma;
 }
 
 .site-main .about-area .client .about-client p {
@@ -288,7 +288,7 @@
 }
 
 .site-main .subscribe-us-area .subscribe .subscribe-title h4 {
-  font: normal 700 30px/ 30px var(--roboto);
+  font: normal 700 30px/ 30px tahoma;
   color: whitesmoke;
 }
 
@@ -303,7 +303,7 @@
   border: 1px solid whitesmoke;
   background: transparent;
   color: white;
-  font: normal 500 17px/20px var(--roboto);
+  font: normal 500 17px/20px tahoma;
 }
 
 .site-main
@@ -331,7 +331,7 @@ footer.footer-area {
 }
 
 footer.footer-area .social h5 {
-  font: normal 500 23px/ 30px var(--roboto);
+  font: normal 500 23px/ 30px tahoma;
 }
 
 footer.footer-area .social a > i {
